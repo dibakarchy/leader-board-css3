@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #F3F3FF;
+    background-color: red;
 }
 main{
     display: flex;
